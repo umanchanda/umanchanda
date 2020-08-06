@@ -1,6 +1,5 @@
 ### Hi there, my name is Uday Manchanda and I'm currently a Software Developer at Capital One in Richmond, VA 👋
 
-<!--
 **umanchanda/umanchanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [My Website](https://umanchanda.github.io)
 - ⚡ Fun fact: I love to watch movies and I'm a big Cleveland sports fan
--->
