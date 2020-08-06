@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to watch movies and I'm a big Cleveland sports fan
 
 Contact me:
+
 [Linkedin](https://linkedin.com/umanchanda)
+
 [Email](mailto:uday.manchanda14@gmail.com)
 <!--
 - 👯 I’m looking to collaborate on ...
