@@ -8,6 +8,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about: Golang, Typescript, React, DevOps, and AWS
 - 📫 How to reach me: [My Website](https://umanchanda.github.io)
 - ⚡ Fun fact: I love to watch movies and I'm a big Cleveland sports fan
+
+Contact me:
+[Linkedin](https://linkedin.com/umanchanda)
+[Email](mailto:uday.manchanda14@gmail.com)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
