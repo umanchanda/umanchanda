@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 Contact me:
 
-[Linkedin](https://linkedin.com/umanchanda)
+[Linkedin](https://linkedin.com/in/umanchanda)
 
 [Email](mailto:uday.manchanda14@gmail.com)
 <!--
