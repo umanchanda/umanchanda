@@ -1,7 +1,5 @@
 ### Hi there, my name is Uday Manchanda and I'm currently a Software Developer at Capital One in Richmond, VA 👋
 
-**umanchanda/umanchanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on: Making a movie database web application using Typescript and React. I'm also studying for my AWS Certified Solutions Architect Exam. 
 - 🌱 I’m currently learning about: Golang, Typescript, React, DevOps, and AWS
 - ⚡ Fun fact: I love to watch movies and I'm a big Cleveland sports fan
