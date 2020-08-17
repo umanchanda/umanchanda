@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on: 
     - Making a movie web application using Typescript and React. 
     - Studying for my AWS Certified Solutions Architect Exam. 
-- 🌱 I’m currently learning about: Golang, Typescript, React, DevOps, and AWS
+    - Trying out some CTFs
+- 🌱 I’m currently learning about: Golang, Typescript, React, DevOps, AWS, and Cryptography
 - ⚡ Fun fact: I love to watch movies and I'm a big Cleveland sports fan
 - 📫 How to reach me: 
     - [My Website](https://umanchanda.github.io)
