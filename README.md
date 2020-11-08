@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday Manchanda</h1>
 <h3 align="center">A Site Reliability Engineer working at Capital One in Richmond, VA</h3>
 
-- 🔭 I’m currently working on **Movies App using React and Typescript**
+- 🔭 I’m currently working on **Full Stack Open 2020**
 
 - 🌱 I’m currently learning **Typescript, Golang, React, AWS, Kubernetes, Cryptopgrahy**
 
