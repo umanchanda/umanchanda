@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Full Stack Open 2020](https://github.com/umanchanda/full-stack-open-2020)
 
-- 🌱 I’m currently learning **React, Golang, Typescript, DevOps**
+- 🌱 I’m currently learning **React, Golang, Typescript, AWS**
 
 - 📫 How to reach me **uday.manchanda14@gmail.com**
 
