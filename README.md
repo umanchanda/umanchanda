@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Manchanda</h1>
-<h3 align="center">A Site Reliability Engineer working at Capital One in Richmond, VA</h3>
+<h3 align="center">A Data Engineer working at Capital One in Richmond, VA</h3>
 
 - 🔭 I’m currently working on [Full Stack Open 2020](https://github.com/umanchanda/full-stack-open-2020) and [Devops with Docker](https://devopswithdocker.com)
 
