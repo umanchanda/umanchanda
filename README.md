@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Manchanda</h1>
-<h3 align="center">A Devops Engineer working for Southwest Airlines in Chicago, IL</h3>
+<h3 align="center">A Cloud & Devops Engineer working for Southwest Airlines in Chicago, IL</h3>
 
 - 🔭 I’m currently working on [Devops with Docker](https://devopswithdocker.com)
 
